@@ -12,3 +12,6 @@ So far my team is small - just 1 person, but I'm willing to work with you!
 
 ## Setup & Requirements
 This project requires a computer and internet. 
+
+## This is an Improvement
+This project has been improved. 
